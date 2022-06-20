@@ -1,0 +1,104 @@
+2022-06-16 01:27:36,113 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-16 01:27:36,114 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-16 01:27:43,321 :ERROR : utilities.customLogger :*************** Home Page Title test is failed ***************
+2022-06-16 01:28:08,516 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-16 01:29:32,913 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-16 01:29:32,914 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-16 01:29:35,784 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-16 01:29:44,672 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 21:09:09,446 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 21:09:09,447 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 21:09:11,568 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 21:09:37,056 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 21:42:18,992 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 21:42:18,992 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 21:42:21,241 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 21:42:28,541 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 21:42:55,912 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 21:42:55,913 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 21:42:58,360 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 21:43:08,950 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 21:55:25,753 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 21:55:25,754 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 21:55:28,018 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 21:55:37,535 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:06:27,979 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:06:27,980 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:06:34,284 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 22:06:42,935 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:07:56,390 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:07:56,390 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:08:01,731 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 22:08:02,024 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:26:04,156 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:26:04,157 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:26:06,478 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 22:26:19,249 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:28:16,959 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:28:16,960 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:28:49,488 :ERROR : utilities.customLogger :*************** Home Page Title test is failed ***************
+2022-06-17 22:48:46,624 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:48:46,624 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:49:04,459 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 22:49:30,528 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:54:54,130 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:54:54,130 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:54:56,448 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 22:55:05,902 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 22:56:47,912 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 22:56:47,913 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 22:58:28,716 :ERROR : utilities.customLogger :*************** Home Page Title test is failed ***************
+2022-06-17 22:58:38,001 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 23:12:39,530 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 23:12:39,531 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 23:12:45,824 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 23:12:55,609 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-17 23:14:40,500 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-17 23:14:40,500 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-17 23:14:41,754 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-17 23:14:50,909 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-18 21:14:45,679 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-18 21:14:45,680 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-18 21:14:48,360 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-18 21:15:00,408 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-18 23:50:13,215 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-18 23:51:06,730 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-18 23:51:46,939 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:32:20,406 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:33:10,251 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:33:16,558 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:33:16,558 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:33:20,191 :INFO : utilities.customLogger :*************** Providing Customer Information ***************
+2022-06-19 00:41:33,195 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-19 00:41:33,196 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-19 00:41:39,818 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-19 00:41:47,580 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-19 00:42:27,715 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:42:35,089 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:42:35,090 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:42:39,710 :INFO : utilities.customLogger :*************** Providing Customer Information ***************
+2022-06-19 00:45:31,636 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:46:14,855 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:46:39,167 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:46:39,167 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:46:43,548 :INFO : utilities.customLogger :*************** Providing Customer Information ***************
+2022-06-19 00:46:53,240 :INFO : utilities.customLogger :*************** Saving Customer Information ***************
+2022-06-19 00:47:55,963 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:48:32,825 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:48:32,825 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:48:46,272 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:48:55,392 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:48:55,392 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:50:23,560 :INFO : utilities.customLogger :*************** Test_003_AddCustomer ***************
+2022-06-19 00:50:30,517 :INFO : utilities.customLogger :*************** Login Successful ***************
+2022-06-19 00:50:30,517 :INFO : utilities.customLogger :*************** Starting Add Customer Test ***************
+2022-06-19 00:50:34,229 :INFO : utilities.customLogger :*************** Providing Customer Information ***************
+2022-06-19 00:50:44,778 :INFO : utilities.customLogger :*************** Saving Customer Information ***************
+2022-06-19 00:50:45,815 :INFO : utilities.customLogger :*************** Add Customer Test Passed ***************
+2022-06-19 00:50:45,874 :INFO : utilities.customLogger :*************** Ending Home Page Title Test ***************
+2022-06-20 21:17:54,173 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-20 21:17:54,173 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
+2022-06-20 22:15:20,589 :INFO : utilities.customLogger :*************** Test_001_Login ***************
+2022-06-20 22:15:20,590 :INFO : utilities.customLogger :*************** Verifying Home Page title ***************
+2022-06-20 22:15:23,274 :INFO : utilities.customLogger :*************** Home Page Title test is passed ***************
+2022-06-20 22:15:33,817 :ERROR : utilities.customLogger :*************** Log in test is failed ***************
