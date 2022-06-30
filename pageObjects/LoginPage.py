@@ -1,4 +1,5 @@
 from selenium.webdriver.common.by import By
+# from selenium import webdriver
 
 class LoginPage:
     textbox_username_id = "Email"
@@ -8,6 +9,7 @@ class LoginPage:
 
     def __init__(self, driver):
         self.driver = driver
+        # self.driver = webdriver.Chrome()
 
     def setUserName(self, username):
         self.driver.find_element(By.ID, self.textbox_username_id).clear()

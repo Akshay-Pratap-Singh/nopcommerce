@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>reports.html</h1>
-    <p>Report generated on 20-Jun-2022 at 21:17:54 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 27-Jun-2022 at 22:20:00 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Akshay</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 70.26 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">0 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>3 tests ran in 35.56 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -280,10 +280,38 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="failed results-table-row">
         <tr>
           <td class="col-result">Failed</td>
-          <td class="col-name">test_Login.py::Test_001_Login::test_login</td>
-          <td class="col-duration">69.70</td>
+          <td class="col-name">testCases/test_Login.py::Test_001_Login::test_login</td>
+          <td class="col-duration">7.35</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">self = &lt;testCases.test_Login.Test_001_Login object at 0x042A1D18&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;88683f72c5a7965c20685d26bffd667a&quot;)&gt;<br/><br/>    @pytest.mark.sanity<br/>    @pytest.mark.regression<br/>    def test_login(self, setup):<br/>        self.driver = setup<br/>        self.driver.get(self.baseURL)<br/>        self.lp = LoginPage(self.driver)<br/>        self.lp.setUserName(self.username)<br/>        self.lp.setPassword(self.password)<br/>        self.lp.clickLogin()<br/>        act_title = self.driver.title<br/>        if act_title == &quot;Dashboard / nopCommerce administration123&quot;:<br/>            # Added 123 after act_title to get this failed<br/>            self.driver.close()<br/>            self.logger.info(&quot;*************** Log in test is passed ***************&quot;)<br/>            assert True<br/>        else:<br/>            # self.driver.save_screenshot(os.getcwd()+&quot;\\test_login.png&quot;)<br/>            self.driver.save_screenshot(&quot;C:\\Users\\Akshay\\PycharmProjects\\SeleniumHybridFramework\\Screenshots&quot;+&quot;\\test_login.png&quot;)<br/>            self.driver.close()<br/>            self.logger.error(&quot;*************** Log in test is failed ***************&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>test_Login.py:57: AssertionError<br/> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser
-<br/> -------------------------------Captured log call-------------------------------- <br/>ERROR    utilities.customLogger:test_Login.py:56 *************** Log in test is failed ***************<br/></div></td></tr></tbody></table></body></html>
+            <div class="log">self = &lt;testCases.test_Login.Test_001_Login object at 0x047B8AD8&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;9a4d610d0fa670a7da225e2f77c08cb2&quot;)&gt;<br/><br/>    @pytest.mark.sanity<br/>    @pytest.mark.regression<br/>    def test_login(self, setup):<br/>        self.driver = setup<br/>        self.driver.get(self.baseURL)<br/>        self.lp = LoginPage(self.driver)<br/>        self.lp.setUserName(self.username)<br/>        self.lp.setPassword(self.password)<br/>        self.lp.clickLogin()<br/>        act_title = self.driver.title<br/>        if act_title == &quot;Dashboard / nopCommerce administration123&quot;:<br/>            # Added 123 after act_title to get this failed<br/>            self.driver.close()<br/>            self.logger.info(&quot;*************** Log in test is passed ***************&quot;)<br/>            assert True<br/>        else:<br/>            # self.driver.save_screenshot(os.getcwd()+&quot;\\test_login.png&quot;)<br/>            self.driver.save_screenshot(&quot;C:\\Users\\Akshay\\PycharmProjects\\SeleniumHybridFramework\\Screenshots&quot;+&quot;\\test_login.png&quot;)<br/>            self.driver.close()<br/>            self.logger.error(&quot;*************** Log in test is failed ***************&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>testCases\test_Login.py:57: AssertionError<br/> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser
+<br/> -------------------------------Captured log call-------------------------------- <br/>ERROR    utilities.customLogger:test_Login.py:56 *************** Log in test is failed ***************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_AddNewCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
+          <td class="col-duration">25.40</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     utilities.customLogger:test_AddNewCustomer.py:20 *************** Test_003_AddCustomer ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:29 *************** Login Successful ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:31 *************** Starting Add Customer Test ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:38 *************** Providing Customer Information ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:50 *************** Saving Customer Information ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:55 *************** Add Customer Test Passed ***************
+INFO     utilities.customLogger:test_AddNewCustomer.py:62 *************** Ending Home Page Title Test ***************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_Login.py::Test_001_Login::test_homePageTitle</td>
+          <td class="col-duration">2.58</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     utilities.customLogger:test_Login.py:19 *************** Test_001_Login ***************
+INFO     utilities.customLogger:test_Login.py:20 *************** Verifying Home Page title ***************
+INFO     utilities.customLogger:test_Login.py:28 *************** Home Page Title test is passed ***************<br/></div></td></tr></tbody></table></body></html>
